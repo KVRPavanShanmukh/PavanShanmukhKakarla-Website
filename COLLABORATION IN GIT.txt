@@ -1,3 +1,0 @@
-COLLABORATION :
-After accepting. use url and clone the repository, and pull and push to remote repository.
-then we can get access to other person's repository.
